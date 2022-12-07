@@ -1,0 +1,42 @@
+C:\Users\francesco\source\repos\tictac_client\tictac_client\bin\Debug\tictac_client.exe.config
+C:\Users\francesco\source\repos\tictac_client\tictac_client\bin\Debug\tictac_client.exe
+C:\Users\francesco\source\repos\tictac_client\tictac_client\bin\Debug\tictac_client.pdb
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.AssemblyReference.cache
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.Form1.resources
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.Properties.Resources.resources
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.GenerateResource.cache
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.CoreCompileInputs.cache
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.exe
+C:\Users\francesco\source\repos\tictac_client\tictac_client\obj\Debug\tictac_client.pdb
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.Form1.resources
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.Properties.Resources.resources
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.exe
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.pdb
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.exe.config
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.exe
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.AssemblyReference.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.Form1.resources
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.Properties.Resources.resources
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.GenerateResource.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.CoreCompileInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\obj\Debug\tictac_client.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.exe.config
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_client\tictac_client\bin\Debug\tictac_client.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.AssemblyReference.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.Form1.resources
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.Properties.Resources.resources
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.GenerateResource.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.csproj.CoreCompileInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\obj\Debug\tictac_client.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\bin\Debug\tictac_client.exe.config
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\bin\Debug\tictac_client.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\bin\Debug\tictac_client.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_client\tictac_client\bin\Debug\Guna.UI2.dll

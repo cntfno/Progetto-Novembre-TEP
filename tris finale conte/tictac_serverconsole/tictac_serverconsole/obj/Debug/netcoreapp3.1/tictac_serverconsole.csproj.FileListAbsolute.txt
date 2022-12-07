@@ -1,0 +1,56 @@
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.exe
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.deps.json
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.json
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.dev.json
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.AssemblyReference.cache
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfoInputs.cache
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfo.cs
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.CoreCompileInputs.cache
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\source\repos\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.genruntimeconfig.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.exe
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.deps.json
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.json
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.dev.json
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfo.cs
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\utente\Desktop\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.genruntimeconfig.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.deps.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.dev.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.AssemblyReference.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfoInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfo.cs
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.CoreCompileInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris in develop\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.genruntimeconfig.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.exe
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.deps.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.runtimeconfig.dev.json
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\bin\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.AssemblyReference.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfoInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.AssemblyInfo.cs
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.csproj.CoreCompileInputs.cache
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.dll
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.pdb
+C:\Users\francesco\OneDrive\Desktop\progetto novembre\Tris\Tris\tris finale conte\tictac_serverconsole\tictac_serverconsole\obj\Debug\netcoreapp3.1\tictac_serverconsole.genruntimeconfig.cache
